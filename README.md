@@ -18,3 +18,6 @@ The main objective of the Supermart Grocery Sales Dashboard is to analyze the co
 
 ## Dashbord
 <img width="867" height="572" alt="Screenshot 2026-10-02 143630" src="https://github.com/user-attachments/assets/a01dc47a-0e7b-4ea8-abf6-c139b07dd12a" />
+
+## Final conclusion:
+The Supermart Sales Dashboard converts raw sales data into actionable business insights by identifying sales and profit trends, strong and weak-performing categories and regions, and the relationship between discounts and profitability. It enables management to make faster and more informed decisions for improving overall business performance
