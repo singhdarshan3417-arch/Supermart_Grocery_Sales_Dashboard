@@ -15,3 +15,6 @@ The main objective of the Supermart Grocery Sales Dashboard is to analyze the co
 8.   Is there a relationship between discount and profit?
 9.   Which states and cities generate the highest sales?
 10.   Which locations have high sales but comparatively low profit?
+
+## Dashbord
+<img width="867" height="572" alt="Screenshot 2026-10-02 143630" src="https://github.com/user-attachments/assets/a01dc47a-0e7b-4ea8-abf6-c139b07dd12a" />
